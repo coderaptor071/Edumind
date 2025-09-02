@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+pytesseract
+Pillow
+pdf2image
+httpx
+python-dotenv
+flask
+motor

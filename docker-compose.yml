@@ -1,0 +1,24 @@
+version: "3.8"
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/edu_mind_ai
+    depends_on:
+      - mongo
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+  ollama:
+    image: ollama/ollama:latest  # Use the official Ollama image if available
+    environment:
+      - OLLAMA_NUM_PARALLEL=2
+    ports:
+      - "11434:11434"
