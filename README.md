@@ -229,10 +229,6 @@ The `docker-compose.yml` file includes:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Workflow
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -244,7 +240,9 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a custom license - see the [LICENSE](LICENSE) file for details.
+
+**⚠️ Important**: This software is **NOT** open for commercial use. Any commercial application, redistribution, or derivative works require explicit written permission from the author. Educational and personal use is permitted with proper attribution.
 
 ---
 
@@ -256,19 +254,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React** for the amazing frontend framework
 
 ---
-
-## 📞 Support
-
-- 📧 **Email**: [your-email@example.com]
-- 💬 **Discord**: [Join our community]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/coderaptor071/Edumind/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/coderaptor071/Edumind/wiki)
-
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Neighbourhood Raptor🐊**
 
 [![GitHub stars](https://img.shields.io/github/stars/coderaptor071/Edumind?style=social)](https://github.com/coderaptor071/Edumind)
 [![GitHub forks](https://img.shields.io/github/forks/coderaptor071/Edumind?style=social)](https://github.com/coderaptor071/Edumind)
